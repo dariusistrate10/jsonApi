@@ -1,1 +1,2 @@
 # jsonapi
+theme: THEME-NAME
